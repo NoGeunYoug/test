@@ -1,5 +1,5 @@
 
-riginal:    https://github.com/yukuku/telebot
+# original:    https://github.com/yukuku/telebot
 # modified by: Bak Yeon O @ http://bakyeono.net
 # description: http://bakyeono.net/post/2015-08-24-using-telegram-bot-api.html
 # github:      https://github.com/bakyeono/using-telegram-bot-api
